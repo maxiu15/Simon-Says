@@ -19,4 +19,4 @@ hér eru myndirnar
 <img src="image3/lal5.jpg" alt="drawing" width="200"/> <img src="image3/lal6.jpg" alt="drawing" width="200"/> 
 
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="315355308_5534768949939084_7392234719588253278_n.mp4" type="video/mp4">
